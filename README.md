@@ -8,9 +8,9 @@ This repo includes multiple machine learning projects based on real-world datase
 
 📁 Tasks Included
 
-Task 1: Term Deposit Subscription Prediction
-Task 2: Customer Segementation
-Task 3: Interactive Business Dashboard
+- Task 1: Term Deposit Subscription Prediction
+- Task 2: Customer Segementation
+- Task 3: Interactive Business Dashboard
 
 🛠 Tools & Technologies
 - Python
