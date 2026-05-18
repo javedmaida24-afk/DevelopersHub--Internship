@@ -8,14 +8,9 @@ This repo includes multiple machine learning projects based on real-world datase
 
 📁 Tasks Included
 
-✅ Task 1: Term Deposit Subscription Prediction
-- Classification Problem
-- Logistic Regression & Random Forest
-- Model Evaluation (Confusion Matrix, F1 Score, ROC Curve)
-- Explainable AI using LIME
-
-⏳ Task 2: (To be added)
-⏳ Task 3: (To be added)
+Task 1: Term Deposit Subscription Prediction
+Task 2: Customer Segementation
+Task 3: Interactive Business Dashboard
 
 🛠 Tools & Technologies
 - Python
